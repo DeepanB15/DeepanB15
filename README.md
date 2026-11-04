@@ -15,6 +15,8 @@
 
 <h3>Experience</h3>
 
+<img align="right" src="https://i.imgur.com/1ZvVkDc.gif" alt="Web Developer Banner" width="340" />
+
 <ul>
 <li><strong>Freelance</strong> — Full-Stack Developer · Sep 2026 – Present<br>Building and delivering web solutions for clients, from frontend interfaces to application workflows.</li>
 <li><strong>StratIQ</strong> — AI Developer / Co-Founder · Mar 2026 – Jun 2026<br>Worked on lead intelligence, enrichment, CRM workflows, and AI-powered automation.</li>
@@ -29,8 +31,6 @@
 </ul>
 
 <h3>Open Source &amp; Programs</h3>
-
-<img align="right" src="https://i.imgur.com/1ZvVkDc.gif" alt="Web Developer Banner" width="340" />
 
 <ul>
 <li><a href="https://github.com/pipeshub-ai/pipeshub-ai"><strong>PipesHub AI</strong></a> · Open-source contributor · <strong>2 merged PRs</strong> · Vercel and Zapier MCP integrations (<a href="https://github.com/pipeshub-ai/pipeshub-ai/pull/5225">#5225</a> · <a href="https://github.com/pipeshub-ai/pipeshub-ai/pull/5354">#5354</a>)</li>
