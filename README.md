@@ -11,19 +11,10 @@
 </tr>
 </table>I build AI-powered applications, agentic systems, open-source integrations, and full-stack products.
 Open Source & Programs
-<table width="100%">
-<tr>
-<td width="66%" valign="top">
-<ul>
-<li><a href="https://github.com/pipeshub-ai/pipeshub-ai"><strong>PipesHub AI</strong></a> · Open-source contributor · <strong>2 merged PRs</strong> · Vercel and Zapier MCP integrations (<a href="https://github.com/pipeshub-ai/pipeshub-ai/pull/5225">#5225</a> · <a href="https://github.com/pipeshub-ai/pipeshub-ai/pull/5354">#5354</a>)</li>
-<li><strong>Smart India Hackathon 2024</strong> · Team Lead · Advanced to the <strong>national semifinals</strong></li>
-</ul>
-</td>
-<td width="34%" align="right" valign="middle">
-<video width="340" src="profile.mp4" controls muted loop playsinline></video>
-</td>
-</tr>
-</table>Currently Building
+<video align="right" width="340" src="profile.mp4" controls muted loop playsinline></video>
+- PipesHub AI · Open-source contributor · 2 merged PRs · Vercel and Zapier MCP integrations (#5225 · #5354)
+- Smart India Hackathon 2024 · Team Lead · Advanced to the national semifinals
+<br clear="right" />Currently Building
 - Tratepra — AI research and trend intelligence platform for cross-platform discovery, cited research, semantic topic clustering, and trend analysis.
 - KiteHut — Local-first repository intelligence engine combining code graphs, context-aware retrieval, and evidence-based verification for AI-assisted development.
 Experience
@@ -35,6 +26,8 @@ Worked on lead intelligence, enrichment, CRM workflows, and AI-powered automatio
 
 IEI Student Chapter — Vice President · Jul 2025 – Aug 2026
 Led student technical initiatives and supported AI workshops, technical talks, and seminars.
+Tech
+Python · Java · SQL · JavaScript · React · Next.js · FastAPI · Flask · LangChain · LangGraph · PostgreSQL · pgvector · Docker · Git · Ollama · n8n · AWS
 
 Outside work, you’ll find me building side projects, experimenting with AI, exploring startup ideas, or learning something new.
 Always happy to connect with founders, builders, developers & people creating ambitious things.
