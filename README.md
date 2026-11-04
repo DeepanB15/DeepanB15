@@ -30,7 +30,7 @@
 
 <h3>Open Source &amp; Programs</h3>
 
-<img align="right" src="1ZvVkDc" width="340" alt="Profile animation">
+<img align="right" src="1ZvVkDc.mp4" width="340" alt="Profile animation">
 
 <ul>
 <li><a href="https://github.com/pipeshub-ai/pipeshub-ai"><strong>PipesHub AI</strong></a> · Open-source contributor · <strong>2 merged PRs</strong> · Vercel and Zapier MCP integrations (<a href="https://github.com/pipeshub-ai/pipeshub-ai/pull/5225">#5225</a> · <a href="https://github.com/pipeshub-ai/pipeshub-ai/pull/5354">#5354</a>)</li>
