@@ -13,6 +13,21 @@
 
 <p>I build AI-powered applications, agentic systems, open-source integrations, and full-stack products.</p>
 
+<h3>Experience</h3>
+
+<ul>
+<li><strong>Freelance</strong> — Full-Stack Developer · Sep 2026 – Present<br>Building and delivering web solutions for clients, from frontend interfaces to application workflows.</li>
+<li><strong>StratIQ</strong> — AI Developer / Co-Founder · Mar 2026 – Jun 2026<br>Worked on lead intelligence, enrichment, CRM workflows, and AI-powered automation.</li>
+<li><strong>IEI Student Chapter</strong> — Vice President · Jul 2025 – Aug 2026<br>Led student technical initiatives and supported AI workshops, technical talks, and seminars.</li>
+</ul>
+
+<h3>Currently Building</h3>
+
+<ul>
+<li><strong>Tratepra</strong> — AI research and trend intelligence platform for cross-platform discovery, cited research, semantic topic clustering, and trend analysis.</li>
+<li><strong>KiteHut</strong> — Local-first repository intelligence engine combining code graphs, context-aware retrieval, and evidence-based verification for AI-assisted development.</li>
+</ul>
+
 <h3>Open Source &amp; Programs</h3>
 
 <table width="100%">
@@ -24,24 +39,7 @@
 </ul>
 </td>
 <td width="34%" align="right" valign="middle">
-<img src="profile.gif" width="340" alt="Profile animation">
+<video src="https://github.com/DeepanB15/DeepanB15/raw/main/video.mp4" width="340" controls muted loop autoplay playsinline></video>
 </td>
 </tr>
 </table>
-
-<h3>Currently Building</h3>
-
-<ul>
-<li><strong>Tratepra</strong> — AI research and trend intelligence platform for cross-platform discovery, cited research, semantic topic clustering, and trend analysis.</li>
-<li><strong>KiteHut</strong> — Local-first repository intelligence engine combining code graphs, context-aware retrieval, and evidence-based verification for AI-assisted development.</li>
-</ul>
-
-<h3>Experience</h3>
-
-<ul>
-<li><strong>Freelance</strong> — Full-Stack Developer · Sep 2026 – Present<br>Building and delivering web solutions for clients, from frontend interfaces to application workflows.</li>
-<li><strong>StratIQ</strong> — AI Developer / Co-Founder · Mar 2026 – Jun 2026<br>Worked on lead intelligence, enrichment, CRM workflows, and AI-powered automation.</li>
-<li><strong>IEI Student Chapter</strong> — Vice President · Jul 2025 – Aug 2026<br>Led student technical initiatives and supported AI workshops, technical talks, and seminars.</li>
-</ul>
-
-<p>Outside work, you’ll find me building side projects, experimenting with AI, exploring startup ideas, or learning something new.<br>Always happy to connect with founders, builders, developers &amp; people creating ambitious things.</p>
