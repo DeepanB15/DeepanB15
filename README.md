@@ -30,7 +30,7 @@
 
 <h3>Open Source &amp; Programs</h3>
 
-<img src="https://i.imgur.com/1ZvVkDc.gif" alt="Web Developer Banner" width="100%" />
+<img align="right" src="https://i.imgur.com/1ZvVkDc.gif" alt="Web Developer Banner" width="340" />
 
 <ul>
 <li><a href="https://github.com/pipeshub-ai/pipeshub-ai"><strong>PipesHub AI</strong></a> · Open-source contributor · <strong>2 merged PRs</strong> · Vercel and Zapier MCP integrations (<a href="https://github.com/pipeshub-ai/pipeshub-ai/pull/5225">#5225</a> · <a href="https://github.com/pipeshub-ai/pipeshub-ai/pull/5354">#5354</a>)</li>
