@@ -15,7 +15,7 @@ I build **AI-powered applications, agentic systems, open-source integrations, an
 
 ### Open Source &amp; Programs
 
-<img align="right" width="340" src="profile.mp4" alt="Pixel-art ramen shop at night" />
+<img align="right" width="340" src="profile.mp4" alt="picture" />
 
 - **[PipesHub AI](https://github.com/pipeshub-ai/pipeshub-ai)** · Open-source contributor · **2 merged PRs** · MCP integrations
 - **[Vercel MCP Integration](https://github.com/pipeshub-ai/pipeshub-ai/pull/5225)** · Remote MCP server catalog integration · OAuth 2.0, Dynamic Client Registration &amp; Streamable HTTP · Merged Nov 2, 2026
