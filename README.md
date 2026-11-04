@@ -30,16 +30,9 @@
 
 <h3>Open Source &amp; Programs</h3>
 
-<table width="100%">
-<tr>
-<td width="66%" valign="top">
+<img align="right" src="video.gif" width="340" alt="Profile animation">
+
 <ul>
 <li><a href="https://github.com/pipeshub-ai/pipeshub-ai"><strong>PipesHub AI</strong></a> · Open-source contributor · <strong>2 merged PRs</strong> · Vercel and Zapier MCP integrations (<a href="https://github.com/pipeshub-ai/pipeshub-ai/pull/5225">#5225</a> · <a href="https://github.com/pipeshub-ai/pipeshub-ai/pull/5354">#5354</a>)</li>
 <li><strong>Smart India Hackathon 2024</strong> · Team Lead · Advanced to the <strong>national semifinals</strong></li>
 </ul>
-</td>
-<td width="34%" align="right" valign="middle">
-<video src="https://github.com/DeepanB15/DeepanB15/raw/main/video.mp4" width="340" controls muted loop autoplay playsinline></video>
-</td>
-</tr>
-</table>
