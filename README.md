@@ -6,7 +6,9 @@
 <td align="right">
 <a href="https://github.com/DeepanB15">GitHub</a> ·
 <a href="https://linkedin.com/in/deepanb">LinkedIn</a> ·
+<a href="https://deepanb15.vercel.app">Portfolio</a> ·
 <a href="mailto:deepan.b.150706@gmail.com">Email</a>
+  
 </td>
 </tr>
 </table>
