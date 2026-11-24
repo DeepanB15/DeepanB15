@@ -14,6 +14,16 @@ I've also previously (in chronological order):
   <img src="https://i.imgur.com/1ZvVkDc.gif" width="256" alt="Animated developer GIF" />
 </p>
 
-<p align="center">
-  📫 reach me @ <a href="deepan.b.150706@gmail.com">deepan.b.150706@gmail.com</a>
-</p>
+<table width="100%">
+<tr>
+<td align="left">
+<strong>AI &amp; Full-Stack Developer.</strong> Building, automating, and shipping intelligent systems.
+</td>
+<td align="right">
+<a href="https://github.com/DeepanB15">GitHub</a> ·
+<a href="https://linkedin.com/in/deepanb">LinkedIn</a> ·
+<a href="https://deepanb15.vercel.app">Portfolio</a> ·
+<a href="mailto:deepan.b.150706@gmail.com">Email</a>
+</td>
+</tr>
+</table>
