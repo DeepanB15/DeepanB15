@@ -15,5 +15,5 @@ I've also previously (in chronological order):
 </p>
 
 <p align="center">
-  📫 reach me @ <a href="deepan.b.150706@gmail.com">contact</a>
+  📫 reach me @ <a href="deepan.b.150706@gmail.com">deepan.b.150706@gmail.com</a>
 </p>
